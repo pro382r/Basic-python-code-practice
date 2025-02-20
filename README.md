@@ -1,2 +1,2 @@
 😌🔰
-Practice python basic problem
+Practice python basic problem and solution

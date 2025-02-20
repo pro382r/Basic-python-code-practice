@@ -1,0 +1,21 @@
+name = "Alice"
+age = 30
+height = 5.8
+is_student = True
+
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Is Student:", is_student)
+
+numbers = [1, 2, 3, 4, 5]
+print("Numbers:", numbers)
+
+my_tuple = (10, "hello", 20)
+print("Tuple:", my_tuple)
+
+my_set = {1, 2, 2, 3, 4}
+print("Set:", my_set)
+
+my_dict = {"a": 1, "b": 2, "c": 3}
+print("Dictionary:", my_dict)
